@@ -1,1 +1,3 @@
 # project_safe_India
+We all know that in India it takes years to solve a case. This is the major problem in India. Due to long time in solving a case criminals don't get desired punishemnt in time and the victims suffer. There are many cases where it tooked more than 5-6 years to solve a case. To solve this problem me and my friends has created this project. Main idea of this project is to store DNA data of multiple people. If at the crime site we are able to find a clue of DNA of the criminal we can easily track them by this data. This helps to solve cases without taking a long period of time.
+ 
